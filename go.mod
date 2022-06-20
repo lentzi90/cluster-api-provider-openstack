@@ -3,7 +3,7 @@ module sigs.k8s.io/cluster-api-provider-openstack
 go 1.17
 
 require (
-	github.com/go-logr/logr v1.2.0
+	github.com/go-logr/logr v1.2.3
 	github.com/golang/mock v1.6.0
 	github.com/google/gofuzz v1.2.0
 	github.com/gophercloud/gophercloud v0.24.0
