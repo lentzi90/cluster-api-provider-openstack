@@ -3,7 +3,7 @@ module sigs.k8s.io/cluster-api-provider-openstack/hack/tools
 go 1.16
 
 require (
-	github.com/a8m/envsubst v1.2.0
+	github.com/a8m/envsubst v1.3.0
 	github.com/golang/mock v1.6.0
 	github.com/golangci/golangci-lint v1.46.2
 	github.com/itchyny/gojq v0.12.2
