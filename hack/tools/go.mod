@@ -7,7 +7,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/golangci/golangci-lint v1.46.2
 	github.com/itchyny/gojq v0.12.2
-	github.com/onsi/ginkgo v1.16.4
+	github.com/onsi/ginkgo v1.16.5
 	k8s.io/code-generator v0.22.2
 	sigs.k8s.io/cluster-api/hack/tools v0.0.0-20211006034833-18ecf48ff1ca
 	sigs.k8s.io/controller-tools v0.7.0
