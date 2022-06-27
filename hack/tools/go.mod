@@ -11,6 +11,6 @@ require (
 	k8s.io/code-generator v0.22.2
 	sigs.k8s.io/cluster-api/hack/tools v0.0.0-20211006034833-18ecf48ff1ca
 	sigs.k8s.io/controller-tools v0.7.0
-	sigs.k8s.io/kind v0.11.1
+	sigs.k8s.io/kind v0.14.0
 	sigs.k8s.io/kustomize/kustomize/v4 v4.4.0
 )
