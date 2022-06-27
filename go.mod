@@ -6,7 +6,7 @@ require (
 	github.com/go-logr/logr v1.2.0
 	github.com/golang/mock v1.6.0
 	github.com/google/gofuzz v1.2.0
-	github.com/gophercloud/gophercloud v0.24.0
+	github.com/gophercloud/gophercloud v0.25.0
 	github.com/gophercloud/utils v0.0.0-20220307143606-8e7800759d16
 	github.com/hashicorp/go-version v1.4.0
 	github.com/onsi/ginkgo v1.16.5
