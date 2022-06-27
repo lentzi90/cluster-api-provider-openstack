@@ -14,7 +14,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.1
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f
+	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
 	golang.org/x/text v0.3.7
 	gopkg.in/ini.v1 v1.63.2
 	k8s.io/api v0.24.0
